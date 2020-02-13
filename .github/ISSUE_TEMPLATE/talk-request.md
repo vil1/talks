@@ -19,4 +19,4 @@ assignees: vil1
 
 *Please explain why you think I'm a good fit for talking about this topic and why you think I could do a better job than, say, yourself*
 
-> Note: if you cannot answer this last question, it probably means that **you** should give this talk; I'd be happy to help you with that
+> Note: if you cannot answer this last question, it probably means that **you** should give this talk; I'd be happy to [help you with that](https://github.com/vil1/talks/issues/new?assignees=vil1&labels=&template=assistance-request.md&title=Please+help+me+with+my+talk+about+%3Cinsert+topic+here%3E)
