@@ -11,4 +11,4 @@ I will cover all the steps it takes to give a talk, from coming up with a cool a
 
 ### Videos
 
-LambdaConf 2019 (not published yet)
+[LambdaConf 2019](https://www.youtube.com/watch?v=R9gx8xL6v6w&list=PL7DZ7q3nEWhzT6OVc5laZqqGAa5mlqKjF&index=45)
